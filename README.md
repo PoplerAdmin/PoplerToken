@@ -9,8 +9,7 @@ White Paper
 
 
 
-Andrew Tidwell
-Founder, 
+
 Popler LLC
 
 
