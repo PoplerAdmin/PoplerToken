@@ -1,0 +1,25 @@
+Proof of Reserve Report, December 2022
+
+Popler LLC
+
+December 31, 2022
+
+1. Reserve Balance:  .........................................................................  $600 USD
+2. Popler Reserve Balance (Address 0x7BF01b7a9E4320F2d7ED2b2855a3DB56C397a507):  .............   999996870 $PPLR
+3. Popler Liquidity Pool Balance (PPLR-USDC):  ...............................................        1062 $PPLR
+4. Popler Liquidity Pool Balance (PPLR-USDT):  ...............................................        1900 $PPLR
+5. Popler LLC Owned Supply (Sum of Lines 2-4):  ..............................................   999999832 $PPLR
+
+6. Total Minted Popler:  .....................................................................  1000000000 $PPLR
+7. Total Popler in Circulation (Line 6 Minus Line 5):  .......................................         168 $PPLR
+8. Backing Ratio (USD to PPLR):  .............................................................  3.57 to 1
+
+9. Reserve Interest Earned During Statement Period:  .........................................  $0 USD
+10. Expenses Accrued During Statement Period:  ...............................................  $0 USD
+11. Total Profit During Statement Period (Line 8 Minus Line 9):  .............................  $0 USD
+12. Total Donations Paid During Statement Period:  ...........................................  $0 USD
+13. Remaining Profit (Line 10 Minus Line 11):  ...............................................  $0 USD
+
+POPLER LLC certifies that the information provided above is, to the best of its knowledge, accurate and valid as of 31/12/2022.
+All values have been rounded to the nearest whole value for simplicity.
+Exact values can be found on Etherscan at https://etherscan.io/token/0x5f36cd50215c024cff1df4086311db7c8afe0dc1#balances
